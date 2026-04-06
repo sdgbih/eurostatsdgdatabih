@@ -1,0 +1,7 @@
+1-1-1-definition: "Ovdje ide tvoj tekst o opisu indikatora..."
+1-1-1-intention: "Ovdje ide tekst o namjeri i cilju..."
+1-1-1-methodology: "Ovdje ide tekst o metodologiji prikupljanja podataka..."
+# Nazivi labela koje koristimo u configu
+description-label: "Opis indikatora"
+intention-label: "Namjera i cilj"
+methodology-label: "Metodologija"
